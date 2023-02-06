@@ -62,6 +62,5 @@ public class Sem_3_Home {
 // #10  
         Collections.sort(list1);
         System.out.println(list1);
-
     }
 }
