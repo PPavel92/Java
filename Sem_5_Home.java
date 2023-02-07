@@ -44,7 +44,7 @@ public class Sem_5_Home {
 //           treeMap.put(key, value);
 
 //         }
-//         System.out.println(treeMap.size());
+//         System.out.println(treeMap);
 
 // #6
         HashMap<Integer, String> hashMap = new HashMap<>();
